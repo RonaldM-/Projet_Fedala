@@ -35,6 +35,12 @@ h1{
 	height:500px;
 	/*border-bottom: 2px solid #E16776;*/
 }
+.img_fond{
+	position: relative;
+}
+.descrip_text{
+	position: absolute;
+}
 .presentation{
 	background-color:#F4EDFF;
 	height:500px;
