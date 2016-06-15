@@ -1,46 +1,47 @@
-/*couleur bg:  c2:  action: ;    */
+/*couleur bg:  action: #F4D1D7 ;    */
 
 .header{
-	background-color:blue;
+	background-color:#C9C4C8;
 	height:150px;
 }
 .menu{
-	background-color:yellow;
+	background-color:#E0BEE3;
 	height:75px;
+	border: #F4EDFF double 2px;
 }
 .menu p{
 		padding-top:20px;
 }
 .location{
-	background-color:purple;
+	background-color:#F4D1D7 ;
 	height:500px;
 }
 .traiteur{
-	background-color:red;
+	background-color:#E0BEE3;
 	height:500px;
 }
 .deco{
-	background-color:grey;
+	background-color:#FAB9FF ;
 	height:500px;
 }
 .presentation{
-	background-color:orange;
+	background-color:#E0BEE3;
 	height:500px;
 	padding-top:230px;
 }
 .block_3{
-	background-color:blue;
+	background-color: #F4D1D7 ;
 	height:600px;
 }
 .a_remplir{
-	background-color:red;
+	background-color:#F4D1D7;
 	height:300px;
 }
 .a_remplir2{
-	background-color:purple;
+	background-color:#E0BEE3;
 	height:300px;
 }
 .footer{
-	background-color:yellow;
+	background-color: #C9C4C8 ;
 	height:200px;
 }
