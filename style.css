@@ -1,0 +1,42 @@
+/*couleur bg:  c2:  action: ;    */
+
+.header{
+	background-color:blue;
+	height:150px;
+}
+.menu{
+	background-color:yellow;
+	height:75px;
+}
+.location{
+	background-color:purple;
+	height:500px;
+}
+.traiteur{
+	background-color:red;
+	height:500px;
+}
+.deco{
+	background-color:grey;
+	height:500px;
+}
+.presentation{
+	background-color:orange;
+	height:500px;
+}
+.block_3{
+	background-color:blue;
+	height:600px;
+}
+.a_remplir{
+	background-color:red;
+	height:300px;
+}
+.a_remplir2{
+	background-color:purple;
+	height:300px;
+}
+.footer{
+	background-color:yellow;
+	height:200px;
+}
