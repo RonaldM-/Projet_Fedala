@@ -1,4 +1,13 @@
 /*couleur bg: #FFFFFF;  txt: #4B4949; action:#E16776; */
+
+/*============Font liste============*/
+/*=====Pour <H1>-<H3>: Great Vibes,Tangerine, Allura, Parisienne ===========*/
+/*=====Pour <p>: Roboto, Roboto Condensed, Open Sans */
+/*=====Pour couleur  barre nav et peut-être Fedala #F5CBA7  ou "#7F6A57"seulement pour titre.
+arrière plan présentation #FFE3A1
+footer #AEF2FF
+texte #B28A68 selon le fond
+*/
 p{
 	font-color:#4B4949;
 }
