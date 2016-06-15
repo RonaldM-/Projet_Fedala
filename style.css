@@ -8,6 +8,9 @@
 	background-color:yellow;
 	height:75px;
 }
+.menu p{
+		padding-top:20px;
+}
 .location{
 	background-color:purple;
 	height:500px;
@@ -23,6 +26,7 @@
 .presentation{
 	background-color:orange;
 	height:500px;
+	padding-top:230px;
 }
 .block_3{
 	background-color:blue;
