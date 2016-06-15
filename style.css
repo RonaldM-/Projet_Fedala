@@ -1,47 +1,64 @@
-/*couleur bg:  action: #F4D1D7 ;    */
-
+/*couleur bg: #FFFFFF;  txt: #4B4949; action:#E16776; */
+p{
+	font-color:#4B4949;
+}
+h1{
+	color:#E16776;
+}
 .header{
-	background-color:#C9C4C8;
+	background-color:#FFFFFF;
 	height:150px;
 }
 .menu{
-	background-color:#E0BEE3;
+	background-color:#E16776;
 	height:75px;
-	border: #F4EDFF double 2px;
+	border: #F4EDFF solid 2px;
 }
 .menu p{
 		padding-top:20px;
 }
 .location{
-	background-color:#F4D1D7 ;
+	background-color:#FFFFFF ;
 	height:500px;
+	/*border-right:2px solid #E16776;*/
+	/*border-bottom: 2px solid #E16776;*/
 }
 .traiteur{
-	background-color:#E0BEE3;
+	background-color:#FFFFFF;
 	height:500px;
+	/*border-right:2px solid #E16776;*/
+	/*border-bottom: 2px solid #E16776;*/
+
 }
 .deco{
-	background-color:#FAB9FF ;
+	background-color:#FFFFFF ;
 	height:500px;
+	/*border-bottom: 2px solid #E16776;*/
 }
 .presentation{
-	background-color:#E0BEE3;
+	background-color:#F4EDFF;
 	height:500px;
 	padding-top:230px;
+	/*border: #FFFFFF solid 2px;*/
 }
 .block_3{
-	background-color: #F4D1D7 ;
+	background-color: #FFFFFF;
 	height:600px;
 }
 .a_remplir{
-	background-color:#F4D1D7;
+	background-color:#FFFFFF;
 	height:300px;
 }
 .a_remplir2{
-	background-color:#E0BEE3;
+	background-color:#FFFFFF;
 	height:300px;
 }
 .footer{
-	background-color: #C9C4C8 ;
+	background-color: #E16776 ;
 	height:200px;
+	border-top: #FFFFFF double 2px;
+}
+hr{
+	color:#E16776;
+	width: 15px;
 }
