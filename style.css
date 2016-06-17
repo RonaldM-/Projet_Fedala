@@ -1,10 +1,15 @@
 /*============Font liste============*/
 /*=====Pour <H1>-<H3>: Great Vibes,Tangerine, Allura, Parisienne ===========*/
-/*=====Pour <p>: Roboto, Roboto Condensed, Open Sans */
-/*=====Pour couleur  barre nav et peut-être Fedala #F5CBA7  ou "#7F6A57"seulement pour titre.
-arrière plan présentation #FFE3A1
-footer #AEF2FF
-texte #B28A68 selon le fond
+/*=====Pour <p>: Roboto, Roboto Condensed, Open Sans
+#3B464A --> Block Menu
+#FFFFFF --> Texte Menu
+#CC93A5 --> Block Présentation
+#FFFFFF --> Texte Présentation
+#8A81AF --> Block Services
+#4A545A --> Textes Services
+#3B464A --> Block Nav Footer
+#415751 --> Sous-Block Footer
+#       --> Texte (Couleur Non définit)
 */
 
 p{
@@ -32,11 +37,12 @@ h3{
 	height:150px;
 }
 .menu{
-	background-color:#A2B5BF;
+	background-color:#3B464A;
 	height:75px;
-	border: #FFFFFF solid 2px;
+	/*border: #FFFFFF solid 2px;*/
 }
 .menu p{
+		color:#FFFFFF;
 		padding-top:20px;
 }
 
@@ -47,7 +53,6 @@ h3{
 	/*border-bottom: 2px solid #E16776;*/
 }
 .traiteur{
-	background-color:#FFFFFF;
 	height:500px;
 	/*border-right:2px solid #E16776;*/
 	/*border-bottom: 2px solid #E16776;*/
@@ -80,14 +85,23 @@ h3{
 	position: absolute;
 }
 .presentation{
-	background-color:#FFFFFF;
+	background-color:#CC93A5;
 	height:500px;
 	padding-top:125px;
 	/*border: #FFFFFF solid 2px;*/
 }
+.presentation p{
+	color: #FFFFFF;
+}
+.block_1{
+	background-color: #8A81AF;
+}
 .block_3{
 	background-color: #FFFFFF;
 	height:600px;
+}
+.block_3 p{
+	color: #575241;
 }
 .a_remplir{
 	background-color:#FFFFFF;
@@ -111,9 +125,9 @@ h3{
 	padding-bottom:25px;
 }
 .footer{
-	background-color: #A2B5BF ;
+	background-color: #415751 ;
 	height:200px;
-	border-top: #FFEFB6 double 2px;
+	/*border-top: #FFEFB6 double 2px;*/
 }	
 }
 .img_comp{
