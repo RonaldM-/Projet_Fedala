@@ -51,7 +51,7 @@ h1{
 .presentation{
 	background-color:#FFE3A1;
 	height:500px;
-	padding-top:230px;
+	padding-top:125px;
 	/*border: #FFFFFF solid 2px;*/
 }
 .block_3{
@@ -60,18 +60,24 @@ h1{
 }
 .a_remplir{
 	background-color:#FFFFFF;
-	height:300px;
+	height:200px;
+	padding:0px;
 }
 .a_remplir2{
 	background-color:#FFFFFF;
-	height:300px;
+	height:200px;
+	padding:0px;
 }
 .footer{
 	background-color: #AEF2FF ;
 	height:200px;
 	border-top: #FFFFFF double 2px;
 }
-hr{
-	color:#E16776;
+hr_pre{
+	color:#7F6A57;
 	width: 15px;
+}
+.img_comp{
+	height:100%;
+	width:100%;
 }
