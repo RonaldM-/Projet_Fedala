@@ -98,14 +98,15 @@ h3{
 }
 .block_3{
 	background-color: #FFFFFF;
-	height:600px;
+	height:650px;
+
 }
 .block_3 p{
 	color: #575241;
 }
 .a_remplir{
 	background-color:#FFFFFF;
-	height:250px;
+	height:325px;
 	padding:0px;
 }
 .a_remplir2 p{
@@ -115,8 +116,7 @@ h3{
 }
 .a_remplir2{
 	background-color:#FFFFFF;
-	height:250px;
-	padding:0px;
+	height:325px;
 }
 .text_presentation p{
 	border-top: 2px solid #A2B5BF;
