@@ -9,9 +9,23 @@ texte #B28A68 selon le fond
 
 p{
 	font-color:#B28A68;
+	font-family: 'Roboto', sans-serif;
 }
+h4{
+	font-family: 'Great Vibes', cursive;
+	font-size:24px;
+}
+
 h1{
 	color:#A2B5BF;
+	font-family: 'Great Vibes', cursive;
+	font-size:52px;
+}
+h2{
+	font-family: 'Great Vibes', cursive;
+}
+h3{
+	font-family: 'Great Vibes', cursive;
 }
 .header{
 	background-color:#FFFFFF;
