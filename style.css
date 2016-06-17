@@ -6,27 +6,29 @@ arrière plan présentation #FFE3A1
 footer #AEF2FF
 texte #B28A68 selon le fond
 */
+
 p{
 	font-color:#B28A68;
 }
 h1{
-	color:#7F6A57;
+	color:#A2B5BF;
 }
 .header{
 	background-color:#FFFFFF;
 	height:150px;
 }
 .menu{
-	background-color:#F5CBA7 ;
+	background-color:#A2B5BF;
 	height:75px;
-	border: #F4EDFF solid 2px;
+	border: #FFFFFF solid 2px;
 }
 .menu p{
 		padding-top:20px;
 }
+
 .location{
-	background-color:#FFFFFF ;
-	height:500px;
+	
+	height:550px;
 	/*border-right:2px solid #E16776;*/
 	/*border-bottom: 2px solid #E16776;*/
 }
@@ -38,9 +40,24 @@ h1{
 
 }
 .deco{
-	background-color:#FFFFFF ;
+	
 	height:500px;
 	/*border-bottom: 2px solid #E16776;*/
+}
+
+.img_b{
+	margin-top:50px;
+	height:365px;
+	width:275px;
+	border:10px solid #A2B5BF;
+	margin-left:25px;
+
+}
+
+.descrip_text p{
+	margin-top:425px;
+	position:center;
+	width:315px;
 }
 .img_fond{
 	position: relative;
@@ -49,7 +66,7 @@ h1{
 	position: absolute;
 }
 .presentation{
-	background-color:#FFE3A1;
+	background-color:#FFFFFF;
 	height:500px;
 	padding-top:125px;
 	/*border: #FFFFFF solid 2px;*/
@@ -60,24 +77,33 @@ h1{
 }
 .a_remplir{
 	background-color:#FFFFFF;
-	height:200px;
+	height:250px;
 	padding:0px;
+}
+.a_remplir2 p{
+	margin-top:35px;
+	width:200px;
+	margin-left:45px;
 }
 .a_remplir2{
 	background-color:#FFFFFF;
-	height:200px;
+	height:250px;
 	padding:0px;
 }
-.footer{
-	background-color: #AEF2FF ;
-	height:200px;
-	border-top: #FFFFFF double 2px;
+.text_presentation p{
+	border-top: 2px solid #A2B5BF;
+	border-bottom:2px solid #A2B5BF;
+	padding-top:25px;
+	padding-bottom:25px;
 }
-hr_pre{
-	color:#7F6A57;
-	width: 15px;
+.footer{
+	background-color: #A2B5BF ;
+	height:200px;
+	border-top: #FFEFB6 double 2px;
+}	
 }
 .img_comp{
 	height:100%;
 	width:100%;
+
 }
