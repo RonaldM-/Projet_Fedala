@@ -1,5 +1,3 @@
-/*couleur bg: #FFFFFF;  txt: #4B4949; action:#E16776; */
-
 /*============Font liste============*/
 /*=====Pour <H1>-<H3>: Great Vibes,Tangerine, Allura, Parisienne ===========*/
 /*=====Pour <p>: Roboto, Roboto Condensed, Open Sans */
@@ -9,17 +7,17 @@ footer #AEF2FF
 texte #B28A68 selon le fond
 */
 p{
-	font-color:#4B4949;
+	font-color:#B28A68;
 }
 h1{
-	color:#E16776;
+	color:#7F6A57;
 }
 .header{
 	background-color:#FFFFFF;
 	height:150px;
 }
 .menu{
-	background-color:#E16776;
+	background-color:#F5CBA7 ;
 	height:75px;
 	border: #F4EDFF solid 2px;
 }
@@ -51,7 +49,7 @@ h1{
 	position: absolute;
 }
 .presentation{
-	background-color:#F4EDFF;
+	background-color:#FFE3A1;
 	height:500px;
 	padding-top:230px;
 	/*border: #FFFFFF solid 2px;*/
@@ -69,7 +67,7 @@ h1{
 	height:300px;
 }
 .footer{
-	background-color: #E16776 ;
+	background-color: #AEF2FF ;
 	height:200px;
 	border-top: #FFFFFF double 2px;
 }
