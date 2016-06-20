@@ -76,7 +76,7 @@ h3{
 	margin-top:50px;
 	height:365px;
 	width:275px;
-	border:10px solid #A2B5BF;
+	border:8px solid #A2B5BF;
 	margin-left:25px;
 
 }
@@ -116,11 +116,14 @@ h3{
 	background-color:#FFFFFF;
 	height:325px;
 	padding:0px;
+	padding-top:25px;
+	padding-left:10px;
 }
 .a_remplir2 p{
 	margin-top:35px;
 	width:200px;
 	margin-left:45px;
+	padding-top:25px;
 }
 .a_remplir2{
 	background-color:#FFFFFF;
@@ -137,15 +140,15 @@ h3{
 	height:200px;
 	/*border-top: #FFEFB6 double 2px;*/
 }	
-}
-.img_comp{
-	height:100%;
-	width:100%;
 
+.img_comp{
+	height:190px;
+	width:330px;
+	border:8px solid #CC93A5;
 }
 
 .maintenance{
-	height:1000px;
+	height:600px;
 	background-color:#8A81AF;
 }
 .maintenance h2{
