@@ -164,6 +164,18 @@ h3{
 	margin-left:20px;
 
 }
+.footer ul{
+	list-style:none;
+	background-color:#3B464A;
+	height:45px;
+}
+.footer li{
+	display:inline;
+	margin-left:70px;
+}
+.footer a{
+	color:#FFFFFF;
+}
 .footer p{
 	margin-top:65px;
 	margin-left:60px;
