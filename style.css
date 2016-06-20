@@ -11,7 +11,9 @@
 #415751 --> Sous-Block Footer
 #       --> Texte (Couleur Non définit)
 */
-
+ul{
+	    list-style-type: none;
+}
 p{
 	font-color:#B28A68;
 	font-family: 'Roboto', sans-serif;
@@ -32,15 +34,15 @@ h2{
 h3{
 	font-family: 'Great Vibes', cursive;
 }
-.header{
+/*.header{
 	background-color:#FFFFFF;
 	height:150px;
-}
-.menu{
+}*/
+/*.menu{
 	background-color:#3B464A;
 	height:75px;
-	/*border: #FFFFFF solid 2px;*/
-}
+	/*border: #FFFFFF solid 2px;
+}*/
 .menu p{
 		color:#FFFFFF;
 		padding-top:20px;
@@ -75,7 +77,7 @@ h3{
 
 .descrip_text p{
 	margin-top:425px;
-	position:center;
+	/*position:center;*/
 	width:315px;
 }
 .img_fond{
@@ -134,4 +136,70 @@ h3{
 	height:100%;
 	width:100%;
 
+}
+
+/*=============================================
+=              	Menu Nav  			            =
+=============================================*/
+
+.cfluid{
+	padding: 0;
+}
+.navbar-header{
+	color:#A2B5BF;
+	font-family: 'Great Vibes', cursive;
+	font-size:52px;
+
+}
+.navbar{
+	border: 0;
+	border-radius: 0;
+	height:75px;
+	/*border: #FFFFFF solid 2px;*/
+}
+.navbar-nav{
+	background-color:#3B464A;
+	width: 100% !important;
+}
+
+.navbar-nav li{
+	color: white;
+}
+.navbar-nav a{
+	text-transform: uppercase;
+	text-decoration-style: none;
+	color: white;
+}
+.bl1{
+	margin-right:90px;
+	margin-left:75px;
+
+}
+.bl2{
+	margin-right:90px;
+	margin-left:75px;
+}
+
+.begin_block{
+	margin-left: 195px;
+}
+.end_block{
+	margin-right: 195px;
+}
+/*=====  End of Section comment block  ======*/
+
+
+.navbar-header a{
+color:#A2B5BF;
+	font-family: 'Great Vibes', cursive;
+	font-size:52px;
+}
+
+.header_effect:hover{
+	color:#A2B5BF;
+	text-decoration: none;
+}
+
+.nav li > a:hover{
+background-color: #3B464A;
 }
