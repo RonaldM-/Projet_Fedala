@@ -36,6 +36,14 @@ h3{
 	background-color:#FFFFFF;
 	height:150px;
 }
+.header h1{
+	margin-left:200px;
+
+}
+.header h3{
+	margin-left:200px;
+
+}
 .menu{
 	background-color:#3B464A;
 	height:75px;
@@ -135,6 +143,11 @@ h3{
 	width:100%;
 
 }
-.co a{
-	margin-top:100px;
+
+.maintenance{
+	height:1000px;
+	background-color:#8A81AF;
+}
+.maintenance h2{
+	margin-top:200px;
 }
