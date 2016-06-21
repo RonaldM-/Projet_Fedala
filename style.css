@@ -73,9 +73,9 @@ h3{
 }
 
 .img_b{
-	margin-top:50px;
-	height:365px;
-	width:275px;
+	margin-top:30px;
+	height:83%;
+	width:75%;
 	border:8px solid #A2B5BF;
 	margin-left:25px;
 
@@ -146,9 +146,9 @@ h3{
 }	
 
 .img_comp{
-	height:190px;
-	width:330px;
-	border:8px solid #CC93A5;
+	height:80%;
+	width:80%;
+	/*border:8px solid #CC93A5;*/
 }
 
 .maintenance{
@@ -179,4 +179,7 @@ h3{
 .footer p{
 	margin-top:65px;
 	margin-left:60px;
+}
+.img_pre{
+	margin-top:25px;
 }
