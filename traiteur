@@ -8,36 +8,35 @@
 	<link href='https://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
 	<meta charset="utf-8"/>
 	</head>
-	<div class="row header">
-			<div class="col-lg-10 text-center">
-				<h1> Fedala </h1>
-				<h3> Decoration  & Location  & Traiteur </h3> 
-			</div>
-			<div class="col-lg-2">
-				<a  href="#"> Connexion : Deconnexion </a>
-			</div>
+	<header class="row">
+			<nav class="navbar">
+				<div class="container-fluid cfluid">
+					<div class="navbar-header col-lg-12 text-center headertxt">
 
-		</div>
+							<div class="col-lg-10 col-lg-offset-1 header_effect">
+						  	<a href="#">Fedala</a>
+							</div>
+						
+							<div class="col-lg-1 compte">
+								<a  href="#"> Connexion</a> : <a href="">Deconnexion</a>
+							</div>
+						</div>
+					</div>
+					<div class="subh co col-offset-lg-1l-lg-12 text-center">
+						<p class="sous_titre">Decoration  & Location  & Traiteur</p>
+					</div>
+					<ul class="nav navbar-nav navbar-fixed"><!--  -->
+						<li class="bl1"><a href="#">Accueil</a></li>
+						<li class="bl1 end_block"><a href="#">Nos Services</a></li>
+						<li class="bl2 begin_block"><a href="#">Contact</a></li>
+						<li class="bl2"><a href="#">Livre d'or</a></li>
+					</ul>
+				</div>
+			</nav>
 
 		<!-- NavBar a modifier -->
 		
-		<div class="row menu ">
-			<div class="col-lg-3">
-				<h4> Fedala </h4>
-			</div>
-			<div class="col-lg-2 text-center">
-				<p> Accueil </p>
-			</div>
-			<div class="col-lg-2 text-center">
-				<p> Nos services </p>
-			</div>
-			<div class="col-lg-2 text-center">
-				<p> Contacts </p>
-			</div>
-			<div class="col-lg-2 text-center">
-				<p> Livre d'or </p>
-			</div>
-		</div>
+		
 		<div class="row">
 			<div class="col-lg-12 maintenance text-center">
 			<h2> Vous etes dans la section Service Traiteur</br> 
