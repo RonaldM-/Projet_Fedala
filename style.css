@@ -145,12 +145,7 @@ h3{
 .cfluid{
 	padding: 0;
 }
-.navbar-header{
-	color:#A2B5BF;
-	font-family: 'Great Vibes', cursive;
-	font-size:52px;
 
-}
 .navbar{
 	border: 0;
 	border-radius: 0;
@@ -163,6 +158,8 @@ h3{
 }
 
 .navbar-nav li{
+	font-family: 'Roboto';
+	font-weight: 400;
 	color: white;
 }
 .navbar-nav a{
@@ -189,17 +186,30 @@ h3{
 /*=====  End of Section comment block  ======*/
 
 
-.navbar-header a{
-color:#A2B5BF;
+.headertx{
+	color:#A2B5BF;
 	font-family: 'Great Vibes', cursive;
 	font-size:52px;
 }
-
-.header_effect:hover{
-	color:#A2B5BF;
+.header_effect a{
+	color:#7F4F5E;
 	text-decoration: none;
+	font-family: 'Great Vibes', cursive;
+	font-size:52px;
 }
+.header_effect:hover{
+	color:#690043;
+	text-decoration: none;
 
-.nav li > a:hover{
+}
+.compte{
+	color: black;
+}
+.navbar-nav li > a:hover{
 background-color: #3B464A;
+}
+.sous_titre{
+	color: #CC93A5;
+	font-family: 'Great Vibes', cursive;
+	font-size: 24px;
 }
