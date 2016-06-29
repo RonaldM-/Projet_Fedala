@@ -34,6 +34,12 @@ h2{
 h3{
 	font-family: 'Great Vibes', cursive;
 }
+body{
+	overflow: hidden;
+}
+.container-fluid{
+	overflow: hidden;
+}
 /*.header{
 	background-color:#FFFFFF;
 	height:150px;
