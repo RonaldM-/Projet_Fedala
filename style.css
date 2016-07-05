@@ -35,7 +35,7 @@ h3{
 	font-family: 'Great Vibes', cursive;
 }
 body{
-	overflow: hidden;
+	/*overflow: hidden;*/
 }
 .container-fluid{
 	overflow: hidden;
